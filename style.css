@@ -22,16 +22,14 @@ main {
 
 /* middle section */
 section {
-
-
     width: 33rem;
-
 }
 
 /* password displaysection */
 .headline {
     text-align: center;
-    color: whitesmoke;
+   color:orange;
+    font-size: 19px;
     margin-bottom: 1rem;
 }
 
